@@ -7,7 +7,7 @@ export interface MyQuery extends DataQuery {
 }
 
 export const defaultQuery: Partial<MyQuery> = {
-  constant: 6.5,
+  constant: 6.6,
 };
 
 /**
